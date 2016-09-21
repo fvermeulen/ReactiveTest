@@ -116,7 +116,7 @@
       <HintPath>..\packages\Splat.1.6.2\lib\Xamarin.iOS10\Splat.dll</HintPath>
     </Reference>
     <Reference Include="ReactiveUI">
-      <HintPath>..\packages\reactiveui-core.7.0.0.1472527742\lib\Xamarin.iOS10\ReactiveUI.dll</HintPath>
+      <HintPath>..\packages\reactiveui-core.7.0.0.1474320879\lib\Xamarin.iOS10\ReactiveUI.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
